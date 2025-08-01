@@ -1,0 +1,19 @@
+# Lista de comandos básicos
+
+## comandos de navegação de diretórios
+
+|comando| descrição |
+| ---   | ---       |
+|del *  | (delete) deleta arquivos|
+|ls    | (list) lista arquivos no diretório|
+|cls    | (clear) limpa terminal| 
+|cd     | (change directory) muda de diretório|
+|mkdir  | (make directory) cria um diretório novo| 
+|code   | (vscode) abre o editor de código do vscode|
+
+## comandos npm e node
+|comando               | descrição |
+| ---                  | ---       |
+|npm init -y           | inicia um projeto node|
+|node [arquivo]        | roda arquivo javascript|
+|node --watch [arquivo]| node fica vigiando arquivo|
